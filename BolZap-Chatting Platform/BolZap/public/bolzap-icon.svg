@@ -1,0 +1,29 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="120" height="120" rx="22" fill="#0F172A"/>
+
+  <!-- Speech Bubble -->
+  <path d="M28 30
+           H80
+           A12 12 0 0 1 92 42
+           V64
+           A12 12 0 0 1 80 76
+           H52
+           L40 90
+           V76
+           H28
+           A12 12 0 0 1 16 64
+           V42
+           A12 12 0 0 1 28 30Z"
+        fill="#38BDF8"/>
+
+  <!-- Lightning Bolt -->
+  <path d="M56 38
+           L44 60
+           H56
+           L48 82
+           L76 54
+           H60
+           Z"
+        fill="#FACC15"/>
+</svg>

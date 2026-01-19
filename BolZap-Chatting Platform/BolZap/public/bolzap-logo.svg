@@ -1,0 +1,34 @@
+<svg width="320" height="120" viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="120" rx="18" fill="#0F172A"/>
+
+  <path d="M40 30
+           H140
+           A12 12 0 0 1 152 42
+           V68
+           A12 12 0 0 1 140 80
+           H80
+           L60 95
+           V80
+           H40
+           A12 12 0 0 1 28 68
+           V42
+           A12 12 0 0 1 40 30Z"
+        fill="#38BDF8"/>
+
+  <path d="M95 38
+           L75 65
+           H92
+           L72 92
+           L115 58
+           H96
+           Z"
+        fill="#FACC15"/>
+
+  <text x="175" y="72"
+        font-family="Segoe UI, Inter, Arial, sans-serif"
+        font-size="36"
+        font-weight="700"
+        fill="#E5E7EB">
+    Bol<tspan fill="#FACC15">Zap</tspan>
+  </text>
+</svg>
