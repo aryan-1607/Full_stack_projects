@@ -6,6 +6,9 @@ BolZap is a full-stack real-time chatting platform built to demonstrate modern f
 The project focuses on practical, real-world implementation rather than isolated feature demos, showcasing how production-style chat applications are structured and built.
 
 ---
+## Live Project
+https://bolzap.vercel.app/
+---
 ## Preview
 
 ![BolZap-Chatting_Platform_Preview](images_and_gifs/BolZap-Chatting_platform.gif)

@@ -4,6 +4,12 @@ PassOP is a lightweight, web-based **password manager** built to store, manage, 
 
 ---
 
+## 🌐 Live Project
+
+🔗 **PassOP Live Site:**  
+https://passop-sigma-three.vercel.app/
+---
+
 ## 📸 Preview
 A demo video is included in the repository showing:
 - Adding credentials
